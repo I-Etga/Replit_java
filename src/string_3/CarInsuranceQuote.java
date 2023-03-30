@@ -1,4 +1,4 @@
-package tasks;
+package string_3;
 
 import java.util.*;
 
