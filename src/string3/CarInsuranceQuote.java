@@ -1,4 +1,4 @@
-package string_3;
+package string3;
 
 import java.util.*;
 
